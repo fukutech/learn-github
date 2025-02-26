@@ -1,0 +1,37 @@
+body {
+    background-color: azure;
+}
+
+.main{
+    text-align: center;
+}
+
+.cont1{
+    width: 70%;
+    padding: auto;
+    margin: auto;
+    text-align: center;
+    background-color: rgb(145, 200, 140);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.cont1 p{
+    font-size: 20px;
+}
+
+.cont1 .list{
+    width: 60%;
+    margin: auto;
+    background: #f5ffbb;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.cont1 .list h3{
+    text-align: center;
+}
+
+.cont1 .list p{
+    font-size: 24px;
+}

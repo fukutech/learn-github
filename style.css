@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-color: azure;
+}
+
+ul {
+    width: 50%;
+    margin: auto;
+    text-align: left;
+    background-color: rgb(255, 183, 236);
+}
